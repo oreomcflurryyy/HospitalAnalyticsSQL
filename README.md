@@ -63,12 +63,6 @@ The project demonstrates skills across:
 
 ---
 
-## Analytics Notebook
-
-![Notebook](screenshots/dashboard.png)
-
----
-
 # 🏗 Project Architecture
 
 ```text
