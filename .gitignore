@@ -1,8 +1,26 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
 .DS_Store
 
+# VS Code
+.vscode/
+
+# Generated data
 data/*.csv
 
-.env
+# Python cache
+.pytest_cache/
+
+# Build files
+*.egg-info/
